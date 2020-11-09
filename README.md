@@ -1,6 +1,14 @@
 # New Dawn iOS Repo
 iOS repository for project New Dawn
 
+# Project Wireframes
+![Screenshot](setting4.PNG?raw=true "Title")
+![Screenshot](setting.PNG?raw=true "Title")
+![Screenshot](profile.PNG?raw=true "Title")
+![Screenshot](message2.PNG?raw=true "Title")
+![Screenshot](message.PNG?raw=true "Title")
+![Screenshot](setting5.PNG?raw=true "Title")
+
 # Prep
 Take a look at these videos to get familiar with iOS/Swift development:
 1. First App: https://www.youtube.com/watch?v=xsohzfdeDng. This covers basics about Xcode, ViewController and UI Elements. **You should download Xcode and try it out on yourself to make sure you can rock with Xcode before going to next tutorials**.
